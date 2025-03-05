@@ -1,0 +1,2 @@
+The goal is to make a script that uses screenshots and gpt-4o to do multi-step interactions with web pages—like identifying GUI elements, deciding which to interact with, and performing those actions. An example use case would be for each link in the official_source.json navigating to the site and going through sites to find press releases about tariff updates then returning the links to each release in a json format that we will be able to send out to our customers. Refine, test, and push updates to the code as you go.
+
