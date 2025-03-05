@@ -1,0 +1,1057 @@
+[
+    {
+        "market": "Dominica - DM",
+        "link": "https://customs.gov.dm",
+        "status": "0"
+    },
+    {
+        "market": "LIBYA - LY",
+        "link": "https://www.gna.gov.ly/en/",
+        "status": "1"
+    },
+    {
+        "market": "Haiti - HT",
+        "link": "https://www.dgi.gouv.ht/",
+        "status": "1"
+    },
+    {
+        "market": "Nauru - NR",
+        "link": "https://justice.gov.nr/",
+        "status": "1"
+    },
+    {
+        "market": "Yemen - YE",
+        "link": "No specific official government website URL for Yemen tariff updates was found in the search results.",
+        "status": "1"
+    },
+    {
+        "market": "Anguilla - AI",
+        "link": "https://ird.gov.ai/",
+        "status": "1"
+    },
+    {
+        "market": "Zimbabwe - ZW",
+        "link": "https://www.zimra.co.zw/",
+        "status": "1"
+    },
+    {
+        "market": "CZECHIA - CZ (EU)",
+        "link": "https://taxation-customs.ec.europa.eu/index_en",
+        "status": "1"
+    },
+    {
+        "market": "Turkmenistan - TM",
+        "link": "https://customs.gov.tm/news/customs",
+        "status": "1"
+    },
+    {
+        "market": "Greece - GR (EU)",
+        "link": "https://taxation-customs.ec.europa.eu/index_en",
+        "status": "1"
+    },
+    {
+        "market": "Marshall Islands - MH",
+        "link": "https://www.rmi.gov.mh/",
+        "status": "1"
+    },
+    {
+        "market": "French Polynesia - PF (EU)",
+        "link": "https://taxation-customs.ec.europa.eu/index_en",
+        "status": "1"
+    },
+    {
+        "market": "Macao - MO",
+        "link": "https://www.dsec.gov.mo/Default.aspx?lang=en-US",
+        "status": "1"
+    },
+    {
+        "market": "Bhutan - BT",
+        "link": "https://www.mof.gov.bt/",
+        "status": "1"
+    },
+    {
+        "market": "Northern Ireland - XI (EU)",
+        "link": "https://taxation-customs.ec.europa.eu/index_en",
+        "status": "1"
+    },
+    {
+        "market": "Virgin Islands, British - VG",
+        "link": "https://bvi.gov.vg/",
+        "status": "1"
+    },
+    {
+        "market": "Brunei Darussalam - BN",
+        "link": "https://www.kastam.gov.bn/",
+        "status": "1"
+    },
+    {
+        "market": "Guernsey - GG (EU)",
+        "link": "https://taxation-customs.ec.europa.eu/index_en",
+        "status": "1"
+    },
+    {
+        "market": "Vanuatu - VU",
+        "link": "https://customsinlandrevenue.gov.vu/blog/newsroom.html",
+        "status": "1"
+    },
+    {
+        "market": "Bermuda - BM",
+        "link": "https://www.gov.bm/news",
+        "status": "1"
+    },
+    {
+        "market": "Cyprus - CY (EU)",
+        "link": "https://taxation-customs.ec.europa.eu/index_en",
+        "status": "1"
+    },
+    {
+        "market": "Mongolia - MN",
+        "link": "https://www.customs.mn/",
+        "status": "1"
+    },
+    {
+        "market": "Turks and Caicos Islands - TC",
+        "link": "https://gov.tc/pressoffice/",
+        "status": "1"
+    },
+    {
+        "market": "Sierra Leone - SL",
+        "link": "https://www.nra.gov.sl/",
+        "status": "1"
+    },
+    {
+        "market": "Gibraltar - GI",
+        "link": "https://www.gibraltar.gov.gi/",
+        "status": "1"
+    },
+    {
+        "market": "Saint Barth\u00e9lemy - BL (EU)",
+        "link": "https://taxation-customs.ec.europa.eu/index_en",
+        "status": "1"
+    },
+    {
+        "market": "Iran, Islamic Republic of - IR",
+        "link": "https://service.tccim.ir/#announcement",
+        "status": "1"
+    },
+    {
+        "market": "Iraq - IQ",
+        "link": "https://www.mof.gov.iq/en/",
+        "status": "1"
+    },
+    {
+        "market": "Luxembourg - LU (EU)",
+        "link": "https://taxation-customs.ec.europa.eu/index_en",
+        "status": "1"
+    },
+    {
+        "market": "Sint Maarten (Dutch Part) - SX (EU)",
+        "link": "https://taxation-customs.ec.europa.eu/index_en",
+        "status": "1"
+    },
+    {
+        "market": "Bonaire, Sint Eustatius and Saba - BQ (EU)",
+        "link": "https://taxation-customs.ec.europa.eu/index_en",
+        "status": "1"
+    },
+    {
+        "market": "Guinea - GN",
+        "link": "https://www.finances.gov.gn/",
+        "status": "1"
+    },
+    {
+        "market": "Monaco - MC (EU)",
+        "link": "https://taxation-customs.ec.europa.eu/index_en",
+        "status": "1"
+    },
+    {
+        "market": "Saint Martin (French part) - MF (EU)",
+        "link": "https://taxation-customs.ec.europa.eu/index_en",
+        "status": "1"
+    },
+    {
+        "market": "Isle of Man - IM",
+        "link": "https://www.gov.im/",
+        "status": "1"
+    },
+    {
+        "market": "France - FR (EU)",
+        "link": "https://taxation-customs.ec.europa.eu/index_en",
+        "status": "1"
+    },
+    {
+        "market": "Italy - IT (EU)",
+        "link": "https://taxation-customs.ec.europa.eu/index_en",
+        "status": "1"
+    },
+    {
+        "market": "Egypt - EG",
+        "link": "https://www.gom.mof.gov.eg/English/Pages/default.aspx",
+        "status": "1"
+    },
+    {
+        "market": "Liberia - LR",
+        "link": "https://www.lra.gov.lr/",
+        "status": "1"
+    },
+    {
+        "market": "Swiss 11 digits - CH",
+        "link": "https://www.tares.ch/",
+        "status": "1"
+    },
+    {
+        "market": "Slovakia - SK (EU)",
+        "link": "https://taxation-customs.ec.europa.eu/index_en",
+        "status": "1"
+    },
+    {
+        "market": "Jordan - JO",
+        "link": "http://www.customs.gov.jo/",
+        "status": "1"
+    },
+    {
+        "market": "Brazil - BR",
+        "link": "https://www.mdic.gov.br/",
+        "status": "1"
+    },
+    {
+        "market": "Bahrain - BH",
+        "link": "https://www.customs.gov.bh/",
+        "status": "1"
+    },
+    {
+        "market": "Colombia - CO",
+        "link": "https://www.dian.gov.co/",
+        "status": "1"
+    },
+    {
+        "market": "Viet Nam - VN",
+        "link": "https://www.vietnamtradeportal.gov.vn/?r=tradeInfo%2Findex",
+        "status": "1"
+    },
+    {
+        "market": "Netherlands - NL (EU)",
+        "link": "https://trade.ec.europa.eu/access-to-markets/en/home",
+        "status": "1"
+    },
+    {
+        "market": "Barbados - BB",
+        "link": "https://oag.gov.bb/",
+        "status": "1"
+    },
+    {
+        "market": "Panama - PA",
+        "link": "https://pancanal.com/en/maritime-services/maritime-tariff/",
+        "status": "1"
+    },
+    {
+        "market": "Tanzania, United Republic of - TZ (EAC)",
+        "link": "https://www.eac.int/295-sector/customs/online-tariff",
+        "status": "1"
+    },
+    {
+        "market": "Guyana - GY",
+        "link": "https://www.gra.gov.gy/",
+        "status": "1"
+    },
+    {
+        "market": "Belgium - BE (EU)",
+        "link": "https://trade.ec.europa.eu/access-to-markets/en/home",
+        "status": "1"
+    },
+    {
+        "market": "Switzerland - CH",
+        "link": "https://www.tares.ch/",
+        "status": "1"
+    },
+    {
+        "market": "Swiss 8 digits - CH",
+        "link": "https://www.tares.ch/",
+        "status": "1"
+    },
+    {
+        "market": "Burundi - BI (EAC)",
+        "link": "https://www.eac.int/295-sector/customs/online-tariff",
+        "status": "1"
+    },
+    {
+        "market": "Algeria - DZ",
+        "link": "https://www.douane.gov.dz/",
+        "status": "1"
+    },
+    {
+        "market": "Trinidad and Tobago - TT",
+        "link": "http://www.customs.gov.tt/importing/duty-calculator",
+        "status": "1"
+    },
+    {
+        "market": "Argentina - AR",
+        "link": "https://www.afip.gob.ar/",
+        "status": "1"
+    },
+    {
+        "market": "Peru - PE",
+        "link": "http://www.sunat.gob.pe/index.html",
+        "status": "1"
+    },
+    {
+        "market": "Suriname - SR",
+        "link": "https://www.trade.gov/country-commercial-guides/suriname-import-tariffs",
+        "status": "1"
+    },
+    {
+        "market": "Portugal - PT (EU)",
+        "link": "https://ec.europa.eu/taxation_customs/business/calculation-customs-duties/what-is-common-customs-tariff/combined-nomenclature_en",
+        "status": "1"
+    },
+    {
+        "market": "Bosnia and Herzegovina - BA",
+        "link": "https://www.uino.gov.ba/portal/en/",
+        "status": "1"
+    },
+    {
+        "market": "Ethiopia - ET",
+        "link": "https://customs.erca.gov.et/trade/customs-division/tariff?lang=en",
+        "status": "1"
+    },
+    {
+        "market": "Chad - TD (CEMAC)",
+        "link": "https://www.wcoomd.org/en/",
+        "status": "1"
+    },
+    {
+        "market": "Niger - NE (UEMOA)",
+        "link": "https://ecotis.ecowas.int/",
+        "status": "1"
+    },
+    {
+        "market": "Venezuela, Bolivarian Republic of - VE",
+        "link": "https://www.gob.ve/",
+        "status": "1"
+    },
+    {
+        "market": "Gabon - GA (CEMAC)",
+        "link": "https://www.dgddi.ga/",
+        "status": "1"
+    },
+    {
+        "market": "Saint Vincent and the Grenadines - VC",
+        "link": "https://www.gov.vc/index.php/business/regulations",
+        "status": "1"
+    },
+    {
+        "market": "Uganda - UG (EAC)",
+        "link": "https://www.ura.go.ug/",
+        "status": "1"
+    },
+    {
+        "market": "Romania - RO (EU)",
+        "link": "https://ec.europa.eu/taxation_customs/business/calculation-customs-duties/tariff-integrated-community-taric_en",
+        "status": "1"
+    },
+    {
+        "market": "Thailand - TH",
+        "link": "https://www.customs.go.th/",
+        "status": "1"
+    },
+    {
+        "market": "Thailand 8 Digits - TH",
+        "link": "https://www.customs.go.th/list_strc_download_with_document.php?order_by=co_last_update_datetime&sort_type=0&ini_content=reference_files&show_search=1&lang=en&left_menu=nmenu_esevice_006",
+        "status": "1"
+    },
+    {
+        "market": "United Arab Emirates - AE",
+        "link": "https://u.ae/en/information-and-services/finance-and-investment/clearing-the-customs-and-paying-customs-duty",
+        "status": "1"
+    },
+    {
+        "market": "Ecuador with TNAN - EC",
+        "link": "https://www.sri.gob.ec/en",
+        "status": "1"
+    },
+    {
+        "market": "Ecuador - EC",
+        "link": "https://www.sri.gob.ec/en",
+        "status": "1"
+    },
+    {
+        "market": "Poland - PL (EU)",
+        "link": "https://ext-isztar4.mf.gov.pl/",
+        "status": "1"
+    },
+    {
+        "market": "Cayman Islands - KY",
+        "link": "https://www.cbc.gov.ky/",
+        "status": "1"
+    },
+    {
+        "market": "French Guiana - GF (EU)",
+        "link": "https://ec.europa.eu/taxation_customs/business/calculation-customs-duties/rules-origin_en",
+        "status": "1"
+    },
+    {
+        "market": "Antigua and Barbuda - AG",
+        "link": "https://www.ab.gov.ag/",
+        "status": "1"
+    },
+    {
+        "market": "Afghanistan - AF",
+        "link": "https://moci.gov.af/",
+        "status": "1"
+    },
+    {
+        "market": "Mayotte - YT (EU)",
+        "link": "https://trade.ec.europa.eu/access-to-markets/en/content/eu-market-0",
+        "status": "1"
+    },
+    {
+        "market": "Spain - ES (EU)",
+        "link": "https://ec.europa.eu/taxation_customs/business/calculation-customs-duties/taric_en",
+        "status": "1"
+    },
+    {
+        "market": "Ghana - GH",
+        "link": "https://gra.gov.gh",
+        "status": "1"
+    },
+    {
+        "market": "Congo - CG (CEMAC)",
+        "link": "https://www.wto.org/english/tratop_e/tpr_e/s169-03_e.doc",
+        "status": "1"
+    },
+    {
+        "market": "Togo - TG (UEMOA)",
+        "link": "https://www.tresor.gouv.tg/",
+        "status": "1"
+    },
+    {
+        "market": "Bahamas - BS",
+        "link": "https://www.bahamascustoms.gov.bs/tariffs-and-various-taxes-collected-by-customs/tariff-search/",
+        "status": "1"
+    },
+    {
+        "market": "Taiwan, Province of China - TW",
+        "link": "https://www.customs.gov.tw/ct.asp?xItem=1083&ctNode=301&mp=1",
+        "status": "1"
+    },
+    {
+        "market": "Dominican Republic - DO",
+        "link": "https://www.dgii.gov.do/",
+        "status": "1"
+    },
+    {
+        "market": "Latvia - LV (EU)",
+        "link": "https://ec.europa.eu/taxation_customs/business/calculation-customs-duties/rules-origin/taric_en",
+        "status": "1"
+    },
+    {
+        "market": "Morocco - MA",
+        "link": "https://www.fas.usda.gov/data/morocco-moroccos-2024-fta-tariff-schedule",
+        "status": "1"
+    },
+    {
+        "market": "Uruguay - UY",
+        "link": "https://www.gub.uy/ministerio-economia-y-finanzas",
+        "status": "1"
+    },
+    {
+        "market": "Angola - AO",
+        "link": "https://www.minfin.gov.ao/",
+        "status": "1"
+    },
+    {
+        "market": "R\u00c3\u00a9union - RE (EU)",
+        "link": "https://trade.ec.europa.eu/access-to-markets/en/home",
+        "status": "1"
+    },
+    {
+        "market": "Guadeloupe - GP (EU)",
+        "link": "https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_en",
+        "status": "1"
+    },
+    {
+        "market": "Martinique - MQ (EU)",
+        "link": "https://ec.europa.eu/taxation_customs/business/calculation-customs-duties/what-is-taric_en",
+        "status": "1"
+    },
+    {
+        "market": "Saint Kitts and Nevis - KN",
+        "link": "https://www.customs.gov.kn/",
+        "status": "1"
+    },
+    {
+        "market": "Grenada - GD",
+        "link": "https://www.gov.gd/",
+        "status": "1"
+    },
+    {
+        "market": "Zambia - ZM",
+        "link": "https://www.zra.org.zm/",
+        "status": "1"
+    },
+    {
+        "market": "Mexico - MX",
+        "link": "https://www.dof.gob.mx/nota_detalle.php?codigo=5724207&fecha=22/04/2024#gsc.tab=0",
+        "status": "1"
+    },
+    {
+        "market": "Nepal - NP",
+        "link": "http://www.customs.gov.np/en/tariff.html",
+        "status": "1"
+    },
+    {
+        "market": "Cambodia - KH",
+        "link": "https://customs.gov.kh/en",
+        "status": "1"
+    },
+    {
+        "market": "Jamaica - JM",
+        "link": "https://jamaicatradeportal.gov.jm",
+        "status": "1"
+    },
+    {
+        "market": "Ireland - IE (EU)",
+        "link": "https://ec.europa.eu/taxation_customs/business/calculation-customs-duties/taric_en",
+        "status": "1"
+    },
+    {
+        "market": "Malawi - MW",
+        "link": "https://www.mra.mw/",
+        "status": "1"
+    },
+    {
+        "market": "Montserrat - MS",
+        "link": "https://mcrs.ms/",
+        "status": "1"
+    },
+    {
+        "market": "Korea, Republic of - KR",
+        "link": "https://english.moef.go.kr/ec/selectTbEconomicDtl.do?boardCd=E0003&seq=5705",
+        "status": "1"
+    },
+    {
+        "market": "Tunisia - TN",
+        "link": "https://www.douanes.gov.tn/",
+        "status": "1"
+    },
+    {
+        "market": "Mali - ML (UEMOA)",
+        "link": "https://douanes.gouv.ml/",
+        "status": "1"
+    },
+    {
+        "market": "Gambia - GM",
+        "link": "https://mocde.gov.gm/",
+        "status": "1"
+    },
+    {
+        "market": "Costa Rica - CR",
+        "link": "https://www.hacienda.go.cr/portal/page/portal/MEH/English",
+        "status": "1"
+    },
+    {
+        "market": "Kuwait - KW",
+        "link": "https://www.customs.gov.kw/",
+        "status": "1"
+    },
+    {
+        "market": "Saint Lucia - LC",
+        "link": "https://www.customs.gov.lc/customs-tariff.php",
+        "status": "1"
+    },
+    {
+        "market": "Cuba - CU",
+        "link": "https://www.mincom.gob.cu/",
+        "status": "1"
+    },
+    {
+        "market": "Chile - CL",
+        "link": "https://www.subrei.gob.cl/",
+        "status": "1"
+    },
+    {
+        "market": "Kosovo - XK",
+        "link": "https://www.kosovocustoms.org/en/",
+        "status": "1"
+    },
+    {
+        "market": "Papua New Guinea - PG",
+        "link": "https://www.treasury.gov.pg/",
+        "status": "1"
+    },
+    {
+        "market": "Malta - MT (EU)",
+        "link": "https://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp?Lang=en",
+        "status": "1"
+    },
+    {
+        "market": "India - IN",
+        "link": "https://www.indiabudget.gov.in/",
+        "status": "1"
+    },
+    {
+        "market": "Serbia - RS",
+        "link": "https://www.srbija.gov.rs/tekst/en/130065/customs-tariff-.php",
+        "status": "1"
+    },
+    {
+        "market": "Russian Federation - RU",
+        "link": "http://www.fstrf.ru/eng",
+        "status": "1"
+    },
+    {
+        "market": "Central African Republic - CF (CEMAC)",
+        "link": "https://www.cemac.int/",
+        "status": "1"
+    },
+    {
+        "market": "Fiji - FJ",
+        "link": "https://www.parliament.gov.fj/",
+        "status": "1"
+    },
+    {
+        "market": "Burkina Faso - BF (UEMOA)",
+        "link": "https://www.douanes.gov.bf/",
+        "status": "1"
+    },
+    {
+        "market": "Qatar - QA",
+        "link": "https://gta.gov.qa/en/taxes-info",
+        "status": "1"
+    },
+    {
+        "market": "Ukraine - UA",
+        "link": "https://zakon.rada.gov.ua/laws/show/584-19#Text",
+        "status": "1"
+    },
+    {
+        "market": "Cabo Verde - CV",
+        "link": "https://www.dgci.cv/",
+        "status": "1"
+    },
+    {
+        "market": "Denmark - DK (EU)",
+        "link": "https://ec.europa.eu/taxation_customs/business/calculation-customs-duties/tariff-integrated-community-taric_en",
+        "status": "1"
+    },
+    {
+        "market": "Montenegro - ME",
+        "link": "https://www.gov.me/upravaprihoda",
+        "status": "1"
+    },
+    {
+        "market": "Nicaragua - NI",
+        "link": "https://www.trade.gov/country-commercial-guides/nicaragua-import-tariffs",
+        "status": "1"
+    },
+    {
+        "market": "United Kingdom of Great Britain and Northern Ireland - GB",
+        "link": "https://www.gov.uk/guidance/tariffs-on-goods-imported-into-the-uk",
+        "status": "1"
+    },
+    {
+        "market": "Madagascar - MG",
+        "link": "https://www.trade.gov/country-commercial-guides/madagascar-trade-barriers-import-tariffs",
+        "status": "1"
+    },
+    {
+        "market": "Singapore - SG",
+        "link": "https://www.ema.gov.sg/consumer-information/electricity/buying-electricity/buying-at-regulated-tariff",
+        "status": "1"
+    },
+    {
+        "market": "Nigeria - NG",
+        "link": "https://www.ncc.gov.ng/media-centre/news-headlines",
+        "status": "1"
+    },
+    {
+        "market": "Kyrgyzstan - KG",
+        "link": "http://www.eurasiancommission.org/ru/act/trade/catr/ett/Pages/default.aspx",
+        "status": "1"
+    },
+    {
+        "market": "North Macedonia - MK",
+        "link": "https://customs.gov.mk/en-GB/carinska-tarifa.nspx",
+        "status": "1"
+    },
+    {
+        "market": "Israel - IL",
+        "link": "https://www.gov.il/en/service/customs-tariff",
+        "status": "1"
+    },
+    {
+        "market": "Rwanda - RW (EAC)",
+        "link": "https://www.rra.gov.rw/en/customs-services",
+        "status": "1"
+    },
+    {
+        "market": "Israel (11 digits) - IL",
+        "link": "https://www.moital.gov.il/en",
+        "status": "1"
+    },
+    {
+        "market": "Malaysia - MY",
+        "link": "https://www.mit.gov.my/",
+        "status": "1"
+    },
+    {
+        "market": "Armenia - AM",
+        "link": "https://www.economy.am/en/",
+        "status": "1"
+    },
+    {
+        "market": "Mauritius - MU",
+        "link": "https://www.mra.mu/en/customs-tariff",
+        "status": "1"
+    },
+    {
+        "market": "Seychelles - SC",
+        "link": "https://www.tradeportal.sc/faq/",
+        "status": "1"
+    },
+    {
+        "market": "Oman - OM",
+        "link": "https://www.rop.gov.om/english/cust/index.html",
+        "status": "1"
+    },
+    {
+        "market": "Moldova, Republic of - MD",
+        "link": "https://www.trade.gov.md/",
+        "status": "1"
+    },
+    {
+        "market": "Palau - PW",
+        "link": "https://wits.worldbank.org/tariff/trains/en/country/PLW/partner/PLW/product/all",
+        "status": "1"
+    },
+    {
+        "market": "Aruba - AW",
+        "link": "https://www.aruba.gov.aw/",
+        "status": "1"
+    },
+    {
+        "market": "Croatia - HR (EU)",
+        "link": "https://trade.ec.europa.eu/access-to-markets/en/home",
+        "status": "1"
+    },
+    {
+        "market": "Kazakhstan - KZ",
+        "link": "https://www.mintr.kz/en/",
+        "status": "1"
+    },
+    {
+        "market": "Bulgaria - BG (EU)",
+        "link": "http://ec.europa.eu/taxation_customs/customs/customs_duties/tariff_aspects/customs_tariff/index_en.htm",
+        "status": "1"
+    },
+    {
+        "market": "Lao People's Democratic Republic - LA",
+        "link": "http://www.dftp.moic.gov.la/",
+        "status": "1"
+    },
+    {
+        "market": "Estonia - EE (EU)",
+        "link": "https://www.taric.ee/",
+        "status": "1"
+    },
+    {
+        "market": "Norway - NO",
+        "link": "https://www.toll.no/en/corporate/norwegian-customs-tariff",
+        "status": "1"
+    },
+    {
+        "market": "Lebanon - LB",
+        "link": "http://www.customs.gov.lb/",
+        "status": "1"
+    },
+    {
+        "market": "C\u00f4te D'Ivoire - CI (UEMOA)",
+        "link": "http://www.douanes.ci/",
+        "status": "1"
+    },
+    {
+        "market": "Jersey - JE (EU)",
+        "link": "https://www.gov.je/Government/Brexit/pages/tradingwiththeeu.aspx",
+        "status": "1"
+    },
+    {
+        "market": "Turkey - TR",
+        "link": "https://ggm.ticaret.gov.tr/",
+        "status": "1"
+    },
+    {
+        "market": "Senegal - SN (UEMOA)",
+        "link": "https://www.douanes.sn",
+        "status": "1"
+    },
+    {
+        "market": "Hong Kong - HK",
+        "link": "https://www.tid.gov.hk/english/trade_relations/trade_agreements/trade_agreements.html",
+        "status": "1"
+    },
+    {
+        "market": "Iceland - IS",
+        "link": "https://island.is/en/o/transport-authority/tariff-transportation-authority",
+        "status": "1"
+    },
+    {
+        "market": "Falkland Islands (Malvinas) - FK",
+        "link": "https://www.falklands.gov.fk/",
+        "status": "1"
+    },
+    {
+        "market": "Maldives - MV",
+        "link": "https://www.customs.gov.mv/eServices/Tariff",
+        "status": "1"
+    },
+    {
+        "market": "Albania - AL",
+        "link": "https://www.tatime.gov.al/en/",
+        "status": "1"
+    },
+    {
+        "market": "Guinea-bissau - GW",
+        "link": "https://www.guinebissau.gov.gw/",
+        "status": "1"
+    },
+    {
+        "market": "Andorra - AD",
+        "link": "https://trade.ec.europa.eu/access-to-markets/en/content/eu-andorra-customs-union",
+        "status": "1"
+    },
+    {
+        "market": "Indonesia - ID",
+        "link": "https://www.kemenkeu.go.id/en",
+        "status": "1"
+    },
+    {
+        "market": "Belize - BZ",
+        "link": "https://www.customs.gov.bz/",
+        "status": "1"
+    },
+    {
+        "market": "Philippines - PH",
+        "link": "https://finder.tariffcommission.gov.ph",
+        "status": "1"
+    },
+    {
+        "market": "Philippines AHTN 11 - PH",
+        "link": "https://finder.tariffcommission.gov.ph/",
+        "status": "1"
+    },
+    {
+        "market": "PH 8-9 Digits Variable - PH",
+        "link": "https://finder.tariffcommission.gov.ph/",
+        "status": "1"
+    },
+    {
+        "market": "Honduras - HN",
+        "link": "http://www.sice.oas.org/ctyindex/HND/WTO/ENGLISH/WTTPRS120_3_e.doc",
+        "status": "1"
+    },
+    {
+        "market": "Belarus - BY",
+        "link": "https://eec.eaeunion.org/en/",
+        "status": "1"
+    },
+    {
+        "market": "Slovenia - SI (EU)",
+        "link": "https://www.uradni-list.si/",
+        "status": "1"
+    },
+    {
+        "market": "El Salvador - SV",
+        "link": "https://www.trade.gov/country-commercial-guides/el-salvador-import-tariffs",
+        "status": "1"
+    },
+    {
+        "market": "Lithuania - LT (EU)",
+        "link": "https://ec.europa.eu/taxation_customs/business/calculation-customs-duties/tariff-integrated-tariff-eu-taric_en",
+        "status": "1"
+    },
+    {
+        "market": "Benin - BJ (UEMOA)",
+        "link": "https://finances.bj/",
+        "status": "1"
+    },
+    {
+        "market": "Austria - AT (EU)",
+        "link": "https://ec.europa.eu/taxation_customs/business/calculation-customs-duties/tariff-integrated-community-taric_en",
+        "status": "1"
+    },
+    {
+        "market": "Pakistan - PK",
+        "link": "https://www.commerce.gov.pk/tariff/",
+        "status": "1"
+    },
+    {
+        "market": "China w/CIQ - CN",
+        "link": "http://www.customs.gov.cn/customs/zsgk93/302251/index.html",
+        "status": "1"
+    },
+    {
+        "market": "China - CN",
+        "link": "http://www.tariff.gov.cn/",
+        "status": "1"
+    },
+    {
+        "market": "Japan - JP",
+        "link": "https://www.customs.go.jp/english/tariff/index.htm",
+        "status": "1"
+    },
+    {
+        "market": "Japan with NACCS Code - JP",
+        "link": "https://www.customs.go.jp/english/tariff/index.htm",
+        "status": "1"
+    },
+    {
+        "market": "Hungary - HU (EU)",
+        "link": "https://trade.ec.europa.eu/access-to-markets/en/home",
+        "status": "1"
+    },
+    {
+        "market": "Uzbekistan - UZ",
+        "link": "https://lex.uz/docs/3802366",
+        "status": "1"
+    },
+    {
+        "market": "Sweden - SE (EU)",
+        "link": "https://ec.europa.eu/taxation_customs/business/calculation-customs-duties/taric_en",
+        "status": "1"
+    },
+    {
+        "market": "Kenya - KE (EAC)",
+        "link": "https://www.trade.go.ke/",
+        "status": "1"
+    },
+    {
+        "market": "Cameroon - CM (CEMAC)",
+        "link": "https://www.minfi.gov.cm/",
+        "status": "1"
+    },
+    {
+        "market": "Germany - DE",
+        "link": "https://www.zoll.de/EN/Home/home_node.html",
+        "status": "1"
+    },
+    {
+        "market": "Germany 10 - DE (EU)",
+        "link": "https://trade.ec.europa.eu/access-to-markets/en/home",
+        "status": "1"
+    },
+    {
+        "market": "Equatorial Guinea - GQ (CEMAC)",
+        "link": "https://www.bceao.int/",
+        "status": "1"
+    },
+    {
+        "market": "Georgia - GE",
+        "link": "https://dps.georgia.gov/",
+        "status": "1"
+    },
+    {
+        "market": "Paraguay - PY",
+        "link": "https://www.aduana.gov.py/",
+        "status": "1"
+    },
+    {
+        "market": "Bolivia, Plurinational State of - BO",
+        "link": "https://www.aduana.gob.bo/",
+        "status": "1"
+    },
+    {
+        "market": "Finland - FI (EU)",
+        "link": "https://tulli.fi/en/about-us/materials/manuals",
+        "status": "1"
+    },
+    {
+        "market": "Bangladesh - BD",
+        "link": "https://customs.gov.bd/",
+        "status": "1"
+    },
+    {
+        "market": "Guatemala - GT",
+        "link": "http://portal.sat.gob.gt/sitio/",
+        "status": "1"
+    },
+    {
+        "market": "Liechtenstein - LI",
+        "link": "https://www.llv.li/en/national-administration/office-of-economic-affairs/movement-of-goods-customs-origin/inch-and-origin/customs-procedure/tarifaere-differences",
+        "status": "1"
+    },
+    {
+        "market": "Saudi Arabia - SA",
+        "link": "https://www.zatca.gov.sa/en/Pages/default.aspx",
+        "status": "1"
+    },
+    {
+        "market": "Myanmar - MM",
+        "link": "http://www.myanmarcustoms.gov.mm",
+        "status": "1"
+    },
+    {
+        "market": "Virgin Islands, U.S. - VI",
+        "link": "https://www.vi.gov/",
+        "status": "1"
+    },
+    {
+        "market": "South Africa - ZA",
+        "link": "https://www.sars.gov.za/customs-and-excise/tariff/",
+        "status": "1"
+    },
+    {
+        "market": "South Africa 8 - ZA",
+        "link": "https://www.sars.gov.za/customs-and-excise/tariff/",
+        "status": "1"
+    },
+    {
+        "market": "Namibia 8 - NA",
+        "link": "https://www.lac.org.na/laws/",
+        "status": "1"
+    },
+    {
+        "market": "Namibia - NA",
+        "link": "https://www.mti.gov.na/",
+        "status": "1"
+    },
+    {
+        "market": "New Zealand - NZ",
+        "link": "https://www.customs.govt.nz/business/tariffs/working-tariff-document/",
+        "status": "1"
+    },
+    {
+        "market": "Australia - AU",
+        "link": "https://www.abf.gov.au/importing-exporting-and-manufacturing/tariff-classification/current-tariff",
+        "status": "1"
+    },
+    {
+        "market": "Puerto Rico - PR",
+        "link": "https://www.cbp.gov/trade/automated/news/coffee-imported-puerto-rico",
+        "status": "1"
+    },
+    {
+        "market": "Eswatini - SZ",
+        "link": "https://www.eec.co.sz/domestic/tariffs/",
+        "status": "1"
+    },
+    {
+        "market": "Lesotho - LS",
+        "link": "https://www.lra.org.ls/Customs_and_Excise_Laws.php",
+        "status": "1"
+    },
+    {
+        "market": "United States - US",
+        "link": "https://www.federalregister.gov/",
+        "status": "1"
+    },
+    {
+        "market": "Botswana - BW",
+        "link": "https://www.burs.org.bw/",
+        "status": "1"
+    },
+    {
+        "market": "Canada - CA",
+        "link": "https://www.canada.ca/en/department-finance.html",
+        "status": "1"
+    }
+]
