@@ -16,7 +16,7 @@ The goal is to make a script that uses screenshots and gpt-4o to do multi-step i
 - [x] Adapt browser initialization for better compatibility
 - [x] Test with multiple sources
 - [x] Add mock mode for testing without browser dependencies
-- [ ] Push updates to the repository
+- [x] Push updates to the repository
 
 ## Usage
 
